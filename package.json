@@ -6,7 +6,8 @@
     "start:backend": "node ./express",
     "dev:backend": "nodemon ./express",
     "dev:frontend": "webpack serve --client-progress --config ./bundler/webpack.dev.js",
-    "build:frontend": "webpack --config ./bundler/webpack.prod.js"
+    "build:frontend": "webpack --config ./bundler/webpack.prod.js",
+    "start:prod": "npm run start:backend && npm run build:frontend"
   },
   "author": "Neon",
   "license": "ISC",
