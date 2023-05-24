@@ -1,6 +1,6 @@
 # webpack-express-boilerplate
 ## Live Link
-[https://webpack-express-boilerplate.node.git.elora.eu.org/](https://webpack-express-boilerplate.node.git.elora.eu.org/)
+[https://eloraa.github.io/webpack-express-boilerplate/](https://eloraa.github.io/webpack-express-boilerplate/)
 
 ## Getting Started
 To get you started you can simply clone the repository:
